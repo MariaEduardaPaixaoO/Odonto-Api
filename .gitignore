@@ -1,0 +1,16 @@
+# Build
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Segredos
+.env
+.env.*
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs e SO
+*.log
+.DS_Store
